@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "132669450810",
+    "project_id": "smart-foundry-de210",
+    "storage_bucket": "smart-foundry-de210.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132669450810:android:4b63f574d975eae4d8a303",
+        "android_client_info": {
+          "package_name": "com.example.smart_foundry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132669450810-16npr3ie0rl1de04j3v3oi6261p81jqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDECKFJ-Iv52KTyvCNT-VxtzBnE7dgyyIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132669450810-16npr3ie0rl1de04j3v3oi6261p81jqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
